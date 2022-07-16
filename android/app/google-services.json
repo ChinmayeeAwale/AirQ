@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773683625449",
+    "firebase_url": "https://nodemcudemo-3e2ef-default-rtdb.firebaseio.com",
+    "project_id": "nodemcudemo-3e2ef",
+    "storage_bucket": "nodemcudemo-3e2ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773683625449:android:b9bf6931a16a4ea079df78",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773683625449-e2en055ps3bl4t3qn100c05acp74mj5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4RHB3S-DErtiQ2uY3eqbUm3cuWlWuXpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773683625449-e2en055ps3bl4t3qn100c05acp74mj5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
